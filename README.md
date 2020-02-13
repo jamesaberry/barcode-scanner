@@ -2,8 +2,8 @@
 Mostly stashing this so I don't forget or loose it.
 
 In order to run this script you need:
-* python -m pip3 install opencv-python
-* python -m pip3 install pyzbar
+* python -m pip install opencv-python
+* python -m pip install pyzbar
 
 Tested using Python 3.8.1 
 
